@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeonlee9420%2FDailyTalk&count_bg=%23707EE1&title_bg=%23555555&icon=pytorch.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Intra- and Inter-modal Context Interaction Modeling for Conversational Speech Synthesis (III-CSS)
 
 
